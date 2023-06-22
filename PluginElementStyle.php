@@ -15,7 +15,7 @@ class PluginElementStyle{
     /**
      * 
      */
-    $element->set('attribute/style/background', "url(". wfSettings::replaceDir($data->get('src')) .") no-repeat center center fixed");
+    $element->set('attribute/style/background', "url(". wfSettings::replaceDir($data->get('src')) .") no-repeat center fixed");
     $element->set('attribute/style/-webkit-background-size', "cover");
     $element->set('attribute/style/-moz-background-size', "cover");
     $element->set('attribute/style/-o-background-size', "cover");

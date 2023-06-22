@@ -1,5 +1,9 @@
-version: 1.0.0
+version: 1.0.1
 history:
+  1.0.1:
+    date: '2023-06-22'
+    title: 'Clean up'
+    description: 'CSS clean up.'
   1.0.0:
     date: '2023-06-14'
     title: 'First version'
